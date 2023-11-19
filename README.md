@@ -18,11 +18,11 @@ Frontend Mentor - QR code component.  The challenge is to build out this QR code
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](<img width="463" alt="image" src="https://github.com/sabdevi/qr-code/assets/12502789/8052772c-4185-403c-90bb-ddc6d78bcd0c">)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/sabdevi/qr-code]
 
 ## My process
 
