@@ -22,7 +22,7 @@ Frontend Mentor - QR code component.  The challenge is to build out this QR code
 
 ### Links
 
-- Solution URL: [https://github.com/sabdevi/qr-code]
+- Solution URL: [https://sabdevi.github.io/qr-code/]
 
 ## My process
 
