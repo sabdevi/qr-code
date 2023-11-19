@@ -18,7 +18,7 @@ Frontend Mentor - QR code component.  The challenge is to build out this QR code
 
 ### Screenshot
 
-![](<img width="463" alt="image" src="https://github.com/sabdevi/qr-code/assets/12502789/8052772c-4185-403c-90bb-ddc6d78bcd0c">)
+![Screenshot of QR-code](https://github.com/sabdevi/qr-code/assets/12502789/8052772c-4185-403c-90bb-ddc6d78bcd0c)
 
 ### Links
 
